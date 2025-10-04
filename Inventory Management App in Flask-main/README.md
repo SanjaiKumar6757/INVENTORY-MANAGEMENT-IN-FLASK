@@ -1,6 +1,6 @@
 # hardWareHouse Inventory Management Application 
 
- View here -> (https://github.com/pranavarora1895/hardWareHouseInventory/assets/48170643/65166f0d-5f02-4878-ac36-30c5aa042ed0)](https://dev.to/devteam/redis-hackathon-winners-announced-524d)
+
 
 
 An inventory management application for a shop to keep the track of its products data. It uses Redis as its primary database, Flask as the backend that connects with Redis, and React as the frontend that renders the data on the browser.
@@ -163,7 +163,7 @@ def fetch_all_products():
 1. Clone the repository from github
 ```shell
 
-git clone https://github.com/pranavarora1895/hardWareHouseInventory.git
+git clone https://github.com/SanjaiKumar6757/hardWareHouseInventory.git
 ```
 2. **Server Side:** _Make sure your **docker** is up and running._ Go to `hardWareHouseInventory\hardWareHouseInventory\` folder and then:
 ```shell
