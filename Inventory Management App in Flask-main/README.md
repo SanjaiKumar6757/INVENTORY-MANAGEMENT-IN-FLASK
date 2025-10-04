@@ -24,11 +24,6 @@ An inventory management application for a shop to keep the track of its products
 |:--:|
 | *Search a Product and the table will render accordingly* |
 
-# Overview video
-
-Here's a short video that explains the project and how it uses Redis:
-
-[![hardwarehouseYoutubeThumbnail](https://user-images.githubusercontent.com/48170643/183334490-ba865a00-b4b2-4d90-bf52-09560e929d73.png)](https://youtu.be/ahwKhVpx3OQ)
 
 ## Technical Stack
 
@@ -215,16 +210,7 @@ npm run start
 
 ---
 
-## Thank You!!
 
-### Let's get connected:
-
-[![devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/dashboard)
-[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/cosmicpranav007/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-arora-354b71bb/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arorapranav187/)
-
-#### :hourglass_flowing_sand: *Time taken to build this app:* [![wakatime](https://wakatime.com/badge/user/e72a1859-4793-4da2-b36b-49c7378256a0/project/e60d1b21-00c0-4f29-bfba-5f5175700f5a.svg)](https://wakatime.com/@pranavarora1895/projects/jzwipwmfui?start=2022-08-02&end=2022-08-09)
 
 
 
