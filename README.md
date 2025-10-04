@@ -159,12 +159,7 @@ def fetch_all_products():
 
 ### Local installation
 
-1. Clone the repository from github
-```shell
-
-git clone https://github.com/SanjaiKumar6757/hardWareHouseInventory.git
-```
-2. **Server Side:** _Make sure your **docker** is up and running._ Go to `hardWareHouseInventory\hardWareHouseInventory\` folder and then:
+1. **Server Side:** _Make sure your **docker** is up and running._ Go to `hardWareHouseInventory\hardWareHouseInventory\` folder and then:
 ```shell
 # Go to server side
 cd .\hardWareHouseInventory\hardWareHouseInventory\
@@ -184,7 +179,7 @@ pip install -r requirements.txt
 # Run server
 flask run
 ```
-3. To load some sample data, run `productsloader.py` script in the `hardWareHouseInventory\hardWareHouseInventory\` folder:
+2. To load some sample data, run `productsloader.py` script in the `hardWareHouseInventory\hardWareHouseInventory\` folder:
 ```shell
 # Open a new PowerShell window
 cd .\hardWareHouseInventory\hardWareHouseInventory\
@@ -195,7 +190,7 @@ python .\productsloader.py
 
 # After loading the products, you can close that powershell window
 ```
-4. **Client Side**: Go to `hardWareHouseInventory\hardwarehouse-dashboard\` folder and then:
+3. **Client Side**: Go to `hardWareHouseInventory\hardwarehouse-dashboard\` folder and then:
 ```shell
 # Open another powershell window
 cd .\hardWareHouseInventory\hardwarehouse-dashboard\
