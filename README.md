@@ -162,7 +162,7 @@ def fetch_all_products():
 1. Clone the repository from github
 ```shell
 
-git clone https://github.com/pranavarora1895/hardWareHouseInventory.git
+git clone https://github.com/SanjaiKumar6757/hardWareHouseInventory.git
 ```
 2. **Server Side:** _Make sure your **docker** is up and running._ Go to `hardWareHouseInventory\hardWareHouseInventory\` folder and then:
 ```shell
